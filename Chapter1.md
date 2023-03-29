@@ -28,14 +28,12 @@ You should see the output "Hello, Python!" in the terminal.
 
 Python has several built-in data types, similar to JavaScript. Some of the most common ones are:
 
-Integers (whole numbers): 42
-Floats (decimal numbers): 3.14
-Strings (text): "Hello, Python!"
-Lists (ordered, mutable collections): [1, 2, 3, 4, 5]
-Tuples (ordered, immutable collections): (1, 2, 3, 4, 5)
-Dictionaries (key-value pairs): {"key": "value"}
-1.4 Comparing Python and JavaScript Syntax
-
+- Integers (whole numbers): 42
+- Floats (decimal numbers): 3.14
+- Strings (text): "Hello, Python!"
+- Lists (ordered, mutable collections): [1, 2, 3, 4, 5]
+- Tuples (ordered, immutable collections): (1, 2, 3, 4, 5)
+- Dictionaries (key-value pairs): {"key": "value"}
 
 ### 1.4 Comparing Python and JavaScript Syntax
 
@@ -50,20 +48,20 @@ Here are some basic syntax differences between JavaScript and Python:
 - Python uses None to represent a null value, while JavaScript uses null.
 
 Variable assignment:
-JavaScript: let x = 42;
-Python: x = 42
+JavaScript: `let x = 42;`
+Python: `x = 42`
 
 Function definition:
-JavaScript: function myFunction() { ... }
-Python: def my_function(): ...
+JavaScript: `function myFunction() { ... }`
+Python: `def my_function(): ...`
 
 Conditional statements:
-JavaScript: if (x > 42) { ... }
-Python: if x > 42: ...
+JavaScript: `if (x > 42) { ... }`
+Python: `if x > 42: ...`
 
 Loops:
-JavaScript: for (let i = 0; i < 5; i++) { ... }
-Python: for i in range(5): ...
+JavaScript:` for (let i = 0; i < 5; i++) { ... }`
+Python: `for i in range(5): ...`
 
 Here's a quick example to illustrate some syntax differences. Let's compare a simple function to calculate the sum of two numbers in both languages.
 
