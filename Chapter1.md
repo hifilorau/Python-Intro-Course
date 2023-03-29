@@ -1,4 +1,4 @@
-# Python-Intro-Course
+# Python Mini Course
 
 ## Chapter 1: Getting Started with Python
 
