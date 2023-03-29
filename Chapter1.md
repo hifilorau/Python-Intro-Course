@@ -43,11 +43,11 @@ As a JavaScript developer, you'll notice some similarities and differences betwe
 
 Here are some basic syntax differences between JavaScript and Python:
 
-In Python, indentation is used to define code blocks, whereas JavaScript uses curly braces ({}).
-Python uses colons (:) to indicate the start of a code block, while JavaScript uses curly braces.
-In Python, the keyword def is used to define functions, while JavaScript uses the keyword function.
-Python uses elif instead of else if for multiple conditions in a conditional statement.
-Python uses None to represent a null value, while JavaScript uses null.
+- In Python, indentation is used to define code blocks, whereas JavaScript uses curly braces ({}).
+- Python uses colons (:) to indicate the start of a code block, while JavaScript uses curly braces.
+- In Python, the keyword def is used to define functions, while JavaScript uses the keyword function.
+- Python uses elif instead of else if for multiple conditions in a conditional statement.
+- Python uses None to represent a null value, while JavaScript uses null.
 
 Variable assignment:
 JavaScript: let x = 42;
