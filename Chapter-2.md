@@ -2,7 +2,7 @@
 
 
 
-- Chapter 2: Variables and Operators
+## Chapter 2: Variables and Operators
 
 In this chapter, we will dive into variables and operators in Python, while comparing them with their JavaScript counterparts. Understanding these differences will make it easier for you to transition between the two languages.
 
