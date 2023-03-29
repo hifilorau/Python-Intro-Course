@@ -69,7 +69,7 @@ alice.greet()  # Output: Hello, my name is Alice.
 
 ```
 
-###5.4 Inheritance
+### 5.4 Inheritance
 
 Both Python and JavaScript support inheritance, allowing you to create subclasses that inherit properties and methods from their parent classes. The syntax for defining subclasses and invoking parent class constructors is slightly different between the two languages.
 
