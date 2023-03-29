@@ -37,7 +37,7 @@ Dictionaries (key-value pairs): {"key": "value"}
 1.4 Comparing Python and JavaScript Syntax
 
 
-1.4 Comparing Python and JavaScript Syntax
+### 1.4 Comparing Python and JavaScript Syntax
 
 As a JavaScript developer, you'll notice some similarities and differences between Python and JavaScript syntax. Here are a few examples:
 
