@@ -65,33 +65,42 @@ Logical operators in Python and JavaScript are similar, but there are some minor
 
 Comparison operators are used to compare two values. Python and JavaScript share most comparison operators, with slight differences in syntax:
 
-Operator	Python	JavaScript. 
-Equal	a == b	a === b. 
-Not Equal	a != b	a !== b. 
-Greater Than	a > b	a > b. 
-Less Than	a < b	a < b. 
-Greater or Equal	a >= b	a >= b. 
-Less or Equal	a <= b	a <= b. 
+| Operator | Python | JavaScript |
+| ------------- | ------------ | ------------ |
+| Equal | `a == b` | `a === b` |
+| Not Equal | `a != b` | `a !== b` |
+| Greater Than | `a > b` | `a > b` |
+| Less Than | `a < b` | `a < b` |
+| Greater or Equal | `a >= b` | `a >= b` |
+| Less or Equal | `a <= b` | `a <= b` |
 
 ### 2.5 Assignment Operators
 
 Assignment operators are used to assign values to variables. Python and JavaScript have similar assignment operators, but Python offers some additional shorthand assignment operators:
 
-Operator	Python	JavaScript. 
-Assignment	a = b	a = b. 
-Addition	a += b	a += b. 
-Subtraction	a -= b	a -= b. 
-Multiplication	a *= b	a *= b. 
-Division	a /= b	a /= b. 
-Floor Division	a //= b	N/A. 
-Modulus | a %= b  a %= b.    
-Exponentiation a **= b  N/A.     
+| Operator | Python | JavaScript |
+| ------------- | ------------ | ------------ |
+| Assignment | `a = b` | `a = b` |
+| Addition | `a += b` | `a += b` |
+| Subtraction | `a -= b` | `a -= b` |
+| Multiplication | `a *= b` | `a *= b` |
+| Division | `a /= b` | `a /= b` |
+| Floor Division | `a //= b` | N/A |
+| Modulus | `a %= b` | `a %= b` |
+| Exponentiation | `a **= b` | N/A | 
 
 Note that floor division and exponentiation shorthand assignment operators are not available in JavaScript.
 
 ### 2.6 Type Conversion
 
-Type conversion is a common operation in programming. Python and JavaScript have similar approaches to type conversion, but with different syntax:ConversionPythonJavaScriptTo Integerint(x)parseInt(x)To Floatfloat(x)parseFloat(x)To Stringstr(x)String(x) or x.toString()
+Type conversion is a common operation in programming. Python and JavaScript have similar approaches to type conversion, but with different syntax:
+
+| Conversion | Python | JavaScript |
+| ---------- | -------------------| ------------------ |
+| To Integer | `int(x)` | `parseInt(x)` |
+| To Float | `float(x)` | `parseFloat(x)` |
+| To String | `str(x)` | `String(x)`or `x.toString()` |
+
 
 ### 2.7 Summary
 
