@@ -47,29 +47,19 @@ Python and JavaScript share many arithmetic operators, such as addition, subtrac
 | Exponentiation|	a ** b        |Math.pow(a, b)   |
 
 
-Operator	Python	JavaScript. 
-
-Addition	a + b	a + b 
-Subtraction	a - b	a - b 
-Multiplication	a * b	a * b 
-
-Division	a / b	a / b. 
-
-Floor Division	a // b	Math.floor(a / b). 
-
-Modulus	a % b	a % b. 
-
-Exponentiation	a ** b	Math.pow(a, b). 
 
 
 ### 2.3 Logical Operators
 
 Logical operators in Python and JavaScript are similar, but there are some minor differences in syntax. Here's a comparison of logical operators in both languages:
 
-Operator	Python	JavaScript. 
-AND	a and b	a && b. 
-OR	a or b	a || b. 
-NOT	not a	!a. 
+| Operator	    | Python        |  Javascript     |
+| ------------- | ------------- |  -------------  |
+| AND           | a and bb      |  a && b         |
+| OR            | a or b        |  a || b         |
+| NOT            | not a        |   !b            |
+
+
 
 ### 2.4 Comparison Operators
 
