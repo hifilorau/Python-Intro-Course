@@ -36,11 +36,22 @@ Note that in Python, there's no need for semicolons at the end of a line.
 
 Python and JavaScript share many arithmetic operators, such as addition, subtraction, multiplication, and division. Here's a comparison of arithmetic operators in both languages:
 
+| Operator	    | Python        |  Javascript     |
+| ------------- | ------------- |  -------------  |
+| Addition      | a + b         |  a + b          |
+| Subtraction   | a - b         |  a - b          |
+| Multiplication| a * b         |  a * b          |
+| Division      | a / b         |  a / b          |
+| Floor Division| a // b        |Math.floor(a / b)|
+| Modulus       |	a % b         |  a % b          |
+| Exponentiation|	a ** b        |Math.pow(a, b)   |
+
+
 Operator	Python	JavaScript. 
 
-Addition	a + b	a + b <br>
-Subtraction	a - b	a - b <br>
-Multiplication	a * b	a * b <br>
+Addition	a + b	a + b 
+Subtraction	a - b	a - b 
+Multiplication	a * b	a * b 
 
 Division	a / b	a / b. 
 
