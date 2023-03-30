@@ -38,11 +38,9 @@ Python and JavaScript share many arithmetic operators, such as addition, subtrac
 
 Operator	Python	JavaScript. 
 
-Addition	a + b	a + b. 
-
-Subtraction	a - b	a - b. 
-
-Multiplication	a * b	a * b. 
+Addition	a + b	a + b <br>
+Subtraction	a - b	a - b <br>
+Multiplication	a * b	a * b <br>
 
 Division	a / b	a / b. 
 
