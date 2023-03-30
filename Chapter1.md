@@ -86,7 +86,7 @@ print(add(3, 4))
 
 ### Summary 
 
-As you progress through the upcoming chapters, you'll explore more in-depth differences and similarities between Python and JavaScript. By the end of this course, you'll have a solid understanding of Python fundamentals and be able to write your own Python programs. Let's go onto chapter 2.
+As you progress through the upcoming chapters, you'll explore more in-depth differences and similarities between Python and JavaScript. By the end of this course, you'll have a solid understanding of Python fundamentals and be able to write your own Python programs. Let's go onto chapter 2 where we will start looking more closely at variables and operators.
 
 
 
